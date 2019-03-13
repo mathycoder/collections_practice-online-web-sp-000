@@ -29,6 +29,7 @@ end
 def swap_elements(array)
   puts array 
   array[1] <=> array[2]
+  puts array 
 end 
 
 array = ["Adam","Danielle", "Tracy"]
