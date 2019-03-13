@@ -28,4 +28,4 @@ end
 
 #array = ["Danielle", "Tracy", "Adam"]
 #sort_array_char_count(array)
-"Tracy".length 
+puts "Tracy".length 
