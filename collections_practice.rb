@@ -26,6 +26,5 @@ def sort_array_char_count(array)
   end  
 end 
 
-#array = ["Danielle", "Tracy", "Adam"]
+array = ["Danielle", "Tracy", "Adam"]
 #sort_array_char_count(array)
-puts "Tracy".length 
