@@ -47,7 +47,8 @@ def reverse_array(array)
 end 
 
 def kesha_maker(array)
+  
 end 
 
-array = [2,7,2,9,8,4,8]
+array = ["Adam","Danielle","Tracy"]
 puts reverse_array(array)
