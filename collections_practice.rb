@@ -37,6 +37,7 @@ def swap_elements(array)
 end 
 
 def reverse_array(array)
+  
 end 
 
 array = ["Adam","Danielle", "Tracy"]
