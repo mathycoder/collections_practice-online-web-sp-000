@@ -38,8 +38,10 @@ end
 
 def reverse_array(array)
   new_array = []
-  index = array.length-1 
-  while 
+  index = array.length 
+  while index > 0 do 
+    
+  end 
 end 
 
 array = [2,7,2,9,8,4,8]
