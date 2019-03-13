@@ -27,4 +27,4 @@ def sort_array_char_count(array)
 end 
 
 array = ["Danielle", "Tracy", "Adam"]
-#sort_array_char_count(array)
+sort_array_char_count(array)
