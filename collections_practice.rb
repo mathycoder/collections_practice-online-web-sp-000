@@ -40,5 +40,5 @@ def reverse_array(array)
   
 end 
 
-array = ["Adam","Danielle", "Tracy"]
-puts swap_elements(array)
+array = [2,7,2,9,8,4,8]
+puts reverse_array(array)
