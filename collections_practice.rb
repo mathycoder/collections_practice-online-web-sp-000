@@ -43,6 +43,7 @@ def reverse_array(array)
     index-=1 
     new_array << array[index]
   end 
+  new_array 
 end 
 
 array = [2,7,2,9,8,4,8]
