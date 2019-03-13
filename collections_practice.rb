@@ -60,4 +60,4 @@ def find_a(array)
 end 
 
 array = ["Adam","Danielle","Tracy"]
-puts kesha_maker(array)
+puts find_a(array)
