@@ -59,5 +59,9 @@ def find_a(array)
   end 
 end 
 
+def sum_array(array)
+  
+end 
+
 array = ["Adam","Danielle","Tracy"]
 puts find_a(array)
