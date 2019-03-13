@@ -51,4 +51,4 @@ def kesha_maker(array)
 end 
 
 array = ["Adam","Danielle","Tracy"]
-puts reverse_array(array)
+puts kesha_maker(array)
