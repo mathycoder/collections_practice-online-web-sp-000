@@ -34,5 +34,5 @@ def swap_elements(array)
   end 
 end 
 
-array = ["Adam","Danielle", "Tracy"]
-puts swap_elements(array)
+#array = ["Adam","Danielle", "Tracy"]
+#puts swap_elements(array)
