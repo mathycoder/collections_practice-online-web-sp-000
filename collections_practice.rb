@@ -69,7 +69,10 @@ end
 
 def add_s(array)
   array.collect do |word|
-    word << "s" unless array[1]==word 
+    if array[1]==word 
+      word 
+    else 
+      word << "s" unless 
   end 
 end 
 
