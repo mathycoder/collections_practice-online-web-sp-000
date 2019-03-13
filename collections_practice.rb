@@ -70,6 +70,7 @@ end
 def add_s(array)
   array.collect do |word|
     word << "s" unless array[1]==word 
+  end 
 end 
 
 array = ["Adam","Danielle","Tracy"]
